@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jackie Almeida</h1>
-<h3 align="center">I am a junior Web Developer 🌱 I’m currently working to improve my skills on Ruby, Ruby on Rails, CSS and JavaScript. My bootcamp projects: BikeBnb: an Airbnb clone; HobbyBuddy: a friendship app.</h3>
+<h3 align="center">I am a junior Web Developer 🌱 I’m currently working to improve my skills in Ruby, Ruby on Rails, CSS and JavaScript. My bootcamp projects: BikeBnb: an Airbnb clone; HobbyBuddy: a friendship app.</h3>
 
 - 📫 How to reach me **jaqueliine.al@gmail.com**
 
